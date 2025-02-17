@@ -1,6 +1,6 @@
 # Documentación de la Configuración del Contenedor
 
-En este documento se hae la documentacion del paso a paso para la configuracion del ambiente del contenedor.
+En este documento se hace la documentacion del paso a paso para la configuracion del ambiente del contenedor.
 
 
 ## Paso 1
