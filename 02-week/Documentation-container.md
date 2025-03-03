@@ -12,7 +12,7 @@ Primero debemos instalar Docker en nuestro sistema operativo. Puede descargar e 
 ### Creación de un archivo Dockerfile
 Una vez instalado Docker, debemos crear un archivo llamado Dockerfile en la raíz siendo en este caso la carpeta del repositorio. El archivo fue suministrado por el docente junto a 2 más siendo estos: .env y docker-compose.yml.
 
-![alt text](../Images/image.png)
+![alt text](../Images/Imgdock.png)
 
 # Paso 3
 Se abre la consola o terminal en la carpeta del repositorio y se ejecuta el siguiente comando:
