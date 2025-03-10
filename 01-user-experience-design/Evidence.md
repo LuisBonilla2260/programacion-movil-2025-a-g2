@@ -3,3 +3,9 @@
 
 #### Desarrollo del Modulo 1 de la certificación
 ![alt text](../Img/image.png)
+
+![alt text](../Img/FINM1.jpg)
+### Modulo 2 Evaluacion Final
+![alt text](../Img/Modulo2.png)
+### Modulo 3 Evaluacion Final
+![alt text](../Img/Modulo3.png)
