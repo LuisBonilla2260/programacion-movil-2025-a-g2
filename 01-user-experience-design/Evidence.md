@@ -22,3 +22,9 @@ Working Collaboratively with Teams on UX Design Projects
 
 ![alt text](../Img/Modulo6.png)
 ### Modulo 7 Evaluacion Final
+Your Future in UX Design: The Job Landscape
+
+![alt text](../Img/Modulo7.png)
+
+### Marked as completed
+![alt text](../Img/Completed.png)
