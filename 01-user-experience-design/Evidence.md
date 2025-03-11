@@ -15,3 +15,10 @@
 Conducting Usability Tests and Gathering Feedback
 
 ![alt text](../Img/Modulo5.png)
+
+### Modulo 6 Evaluacion Final
+Working Collaboratively with Teams on UX Design Projects
+
+
+![alt text](../Img/Modulo6.png)
+### Modulo 7 Evaluacion Final
