@@ -28,3 +28,5 @@ Your Future in UX Design: The Job Landscape
 
 ### Marked as completed
 ![alt text](../Img/Completed.png)
+
+[Certificado en Credly](https://www.credly.com/badges/037905fc-9927-4385-9991-c897335b6da5/public_url)
