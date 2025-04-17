@@ -1,4 +1,4 @@
-## Website Testing and Deployment
+## Sustentación sobre la prueba de sitios web
 
 En el proceso de desarrollo de sitios web, la **prueba** es una etapa crucial para garantizar que el sitio cumpla con las expectativas de los usuarios y funcione correctamente. Los desarrolladores realizan diferentes tipos de pruebas, como las pruebas **funcionales**, **de regresión** y **de usabilidad**, para asegurarse de que todas las características del sitio se comporten como se espera.
 
