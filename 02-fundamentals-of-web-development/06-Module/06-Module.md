@@ -1,7 +1,10 @@
-## Sustentación sobre la prueba de sitios web
+# Module 06: Develop an Interactive Task List Web Page
+En el desarrollo de una página de tareas interactiva, aprendimos a combinar **HTML, CSS y JavaScript** para crear una experiencia funcional y visualmente clara. Desde el inicio, usamos HTML para estructurar los elementos clave como el campo de entrada, el botón de añadir y la lista de tareas.
 
-En el proceso de desarrollo de sitios web, la **prueba** es una etapa crucial para garantizar que el sitio cumpla con las expectativas de los usuarios y funcione correctamente. Los desarrolladores realizan diferentes tipos de pruebas, como las pruebas **funcionales**, **de regresión** y **de usabilidad**, para asegurarse de que todas las características del sitio se comporten como se espera.
+Con **CSS**, le dimos estilo al diseño, asegurándonos de que se viera bien tanto en escritorio como en dispositivos móviles. Aplicamos clases para personalizar colores, márgenes y comportamientos como el scroll cuando la lista se hacía muy larga.
 
-Una de las principales razones por las que realizamos pruebas es para **asegurar una buena experiencia de usuario**. Esto implica que el sitio sea accesible, rápido y fácil de navegar, sin errores que puedan frustrar a los usuarios. Además, las pruebas ayudan a **identificar problemas de rendimiento** que podrían afectar la carga del sitio, lo cual es fundamental, especialmente cuando se tiene un público diverso utilizando diferentes dispositivos y conexiones.
+La parte más dinámica vino con **JavaScript**, donde agregamos interactividad: permitir al usuario añadir tareas con el botón o presionando Enter, marcar tareas como completadas (tachándolas) y eliminarlas. También implementamos validaciones para evitar tareas vacías, mostrando mensajes claros.
 
-![05-Module](../Img/05-Module.png)
+Finalmente, realizamos pruebas para verificar que todo funcionara como se esperaba y que la interfaz respondiera bien en distintos tamaños de pantalla. Este módulo nos ayudó a entender cómo integrar el diseño y la lógica para construir una página web funcional, intuitiva y adaptable.
+
+![06-Module](../Img/06-Module.png)

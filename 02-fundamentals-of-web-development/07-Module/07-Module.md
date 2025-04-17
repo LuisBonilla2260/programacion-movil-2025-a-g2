@@ -1,7 +1,8 @@
-## Sustentación sobre la prueba de sitios web
+# Module 7: Your Future in Web Development
+Aprendí sobre los distintos roles dentro de un equipo de desarrollo web, como el front-end developer, back-end developer, full-stack developer, QA tester, UX designer, y product manager. Cada uno tiene funciones específicas y complementarias que permiten que un proyecto web avance correctamente.
 
-En el proceso de desarrollo de sitios web, la **prueba** es una etapa crucial para garantizar que el sitio cumpla con las expectativas de los usuarios y funcione correctamente. Los desarrolladores realizan diferentes tipos de pruebas, como las pruebas **funcionales**, **de regresión** y **de usabilidad**, para asegurarse de que todas las características del sitio se comporten como se espera.
+También entendí que hay muchas herramientas y frameworks populares, como React para el front-end o Express y Flask para el back-end, y que conocer alguno de ellos es clave para ser competitivo en el mercado laboral.
 
-Una de las principales razones por las que realizamos pruebas es para **asegurar una buena experiencia de usuario**. Esto implica que el sitio sea accesible, rápido y fácil de navegar, sin errores que puedan frustrar a los usuarios. Además, las pruebas ayudan a **identificar problemas de rendimiento** que podrían afectar la carga del sitio, lo cual es fundamental, especialmente cuando se tiene un público diverso utilizando diferentes dispositivos y conexiones.
+Otra cosa importante fue que no solo se valoran las habilidades técnicas, sino también las habilidades blandas como la comunicación, el trabajo en equipo y el pensamiento crítico. Además, los títulos de los trabajos pueden variar mucho, así que es importante leer bien las descripciones para saber qué buscan realmente las empresas.
 
-![05-Module](../Img/05-Module.png)
+![07-Module](../Img/07-Module.png)
